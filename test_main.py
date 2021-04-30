@@ -3,7 +3,7 @@ from main import suma, resta
 
 
 def test_suma():
-    assert suma(1, 1) == 3
+    assert suma(1, 1) == 2
     assert suma(1, 2) == 3
 
 
