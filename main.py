@@ -9,6 +9,5 @@ def resta(x, y):
     return x - y
 
 
-cadena = """3as51a3fs1df35sd1gf3513gas;
-        d35sdfdAS12FASGASGASDGA;
-        SG3ASDG53ASD+-EWG-+´G-+´23-´+231G"""
+def division(x,y):
+    if (x==0
